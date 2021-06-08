@@ -9,7 +9,7 @@ Have Implemented Smart Contract with almost 100% coverage.
 ## How to use this repository?
 1) clone this repo
 ```bash
-git clone https://github.com/bhatt-deep/AirdropUsingMerkletree.git
+git clone https://github.com/bhatt-deep/Dbilia-Smart-Contract-Assessment.git
 ```
 2) run truffle commands
 ```bash
